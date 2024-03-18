@@ -9,6 +9,6 @@ Phase 1 functionality will be achieved in a series of steps. It is strongly sugg
 We will create a class aOrderedList that will contain a partially filled array that we will keep
 sorted with each insertion and deletion.
 
-##Basic Demonstration
+## Basic Demonstration
 https://github.com/MadisonHarman/Prog01_aOrderedList/assets/146497226/ebce667b-443f-4f22-983a-5b00fabbebbe
 
